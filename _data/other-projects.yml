@@ -1,0 +1,46 @@
+- name: Netflix
+  url: https://pliger4.github.io/netflix-clone/
+  code: https://github.com/pliger4/netflix-clone
+  description: A small project practicing HTML and CSS to recreate a popular app with a nice landing page.
+  used:
+    - thing: JavaScript
+    - thing: HTML
+    - thing: CSS
+
+- name: Modern Landing Page
+  url: https://preston-modern-landing.netlify.app
+  code: https://github.com/pliger4/landing-page
+  description: Modern landing page that was apart of a coding challenge to bring new ideas in the design world to light.
+  used:
+    - thing: HTML
+    - thing: SCSS
+    - thing: Javascript
+
+- name: Passport Authentication
+  url: https://github.com/pliger4/passport-authentication
+  code: https://github.com/pliger4/passport-authentication
+  description: A node.js app that uses a log in form to practice some back-end frameworks. Allowing the user to enter information for a sign up page and then granted access to logging in and also signing out.
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: Javascript
+    - thing: Node
+
+- name: Day 2 Day
+  url: https://pliger4.github.io/Day-2-Day/
+  code: https://github.com/pliger4/Day-2-Day
+  description: A project that is slowing coming to life that started in high school in wanting to create a buisness that sold shoes and apparel.
+  used:
+    - thing: HTML
+    - thing: SCSS
+    - thing: JavaScript
+
+- name: Redstore Ecommerce
+  url: https://pliger4.github.io/Redstore-Ecommerce/
+  code: https://github.com/pliger4/Redstore-Ecommerce
+  description: An ecommerce landing page that has items for a user to pick from and purchase. The user can log in, check their cart, and also access to a checkout page.
+  used:
+    - thing: HTML
+    - thing: SCSS
+    - thing: JavaScript
+

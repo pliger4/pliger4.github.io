@@ -1,0 +1,24 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: HTML
+  - item: CSS/Sass
+  - item: Python
+  - item: SQL
+
+frameworks:
+  - item: jQuery
+  - item: React
+  - item: Jekyll
+  - item: Node
+  - item: Express
+  - item: Angular
+  - item: Vue
+
+tools:
+  - item: Bash
+  - item: Git
+  - item: Postman
+  - item: MongoDB
+  - item: Firebase
+  - item: Netlify
+  
